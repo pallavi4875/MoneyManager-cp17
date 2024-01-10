@@ -1,0 +1,39 @@
+/* Write your CSS here */
+.container {
+  padding: 25px;
+}
+.BalanceCard {
+  background-color: #cffafe;
+  border-width: 2px;
+  border-radius: 8px;
+  border-color: #84cc16;
+  padding: 25px;
+  width: 200px;
+  height: 200px;
+}
+.incomeCard {
+  background-color: #ede9fe;
+  border-width: 2px;
+  border-radius: 8px;
+  border-color: #06b6d4;
+  padding: 25px;
+  width: 200px;
+  height: 200px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.expensesCard {
+  background-color: #cbd5e1;
+  border-width: 2px;
+  border-radius: 8px;
+  border-color: #7e858e;
+  padding: 25px;
+  width: 200px;
+  height: 200px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.img {
+  width: 50px;
+  height: 50px;
+}

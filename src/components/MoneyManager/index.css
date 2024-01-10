@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.container {
+  background-color: #ffffff;
+  padding: 25px;
+}
+.card {
+  background-color: #cffafe;
+  border-radius: 8px;
+  border-width: 0px;
+  text-align: center;
+  padding: 25px;
+}
+.heading {
+  color: #475569;
+  font-weight: bold;
+  font-family: 'Family';
+}
+.para {
+  color: #475569;
+  font-family: 'Family';
+  text-align: center;
+  margin-bottom: 20px;
+}
+.form-card {
+  border-radius: 8px;
+  border-width: 2px;
+  border-color: grey;
+  padding: 25px;
+}
